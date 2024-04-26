@@ -1,4 +1,4 @@
 [workspace]
 resolver = "2"
 
-members = ["consensus", "graphqlservice","service"]
+members = ["consensus", "graphqlservice", "mempool","service", "store"]
